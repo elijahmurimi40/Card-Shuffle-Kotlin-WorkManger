@@ -59,7 +59,7 @@
             app:layout_constraintTop_toBottomOf="@+id/description" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/results_is"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:gravity="center"
@@ -78,7 +78,7 @@
             app:layout_constraintEnd_toEndOf="@+id/textView3"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="@+id/textView3"
-            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+            app:layout_constraintTop_toBottomOf="@+id/results_is" />
 
         <ProgressBar
             android:id="@+id/progress_bar"
