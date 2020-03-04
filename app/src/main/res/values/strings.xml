@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Card Shuffle</string>
+
+    <!-- content_main.xml -->
+    <string name="requires_charging">Requires Charging?</string>
+    <string name="device_charging">Device Charging</string>
+    <string name="description">
+        How Many Different Ways can The standard 52-card deck can be arranged? The number is 52!
+        That is
+    </string>
+    <string name="p">
+        52 x 51 x 50 x 49 x 48 x 47 x 46 x 45 x 44 x 43 x
+        42 x 41 x 40 x 39 x 38 x 37 x 36 x 35 x 34 x 33 x
+        32 x 31 x 30 x 29 x 28 x 27 x 26 x 25 x 24 x 23 x
+        22 x 21 x 20 x 19 x 18 x 17 x 16 x 15 x 14 x 13 x
+        12 x 11 x 10 x 9 x 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1
+    </string>
+    <string name="cancel">Cancel</string>
+    <string name="calculate">Calculate</string>
+    <string name="results_is">Results is</string>
 </resources>
