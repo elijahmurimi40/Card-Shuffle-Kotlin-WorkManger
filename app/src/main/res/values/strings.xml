@@ -18,4 +18,10 @@
     <string name="cancel">Cancel</string>
     <string name="calculate">Calculate</string>
     <string name="results_is">Results is</string>
+    <string name="calculating">Calculating …</string>
+    <string name="results">
+        80, 658, 175, 170, 943, 878, 571, 660, 636, 856, 403, 766,
+        975, 289, 505, 440, 883, 277, 824, 000, 000 , 000, 000
+    </string>
+    <string name="cancelled">Cancelled</string>
 </resources>
