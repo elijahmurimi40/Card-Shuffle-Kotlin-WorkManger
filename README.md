@@ -1,7 +1,4 @@
 # Card-Shuffle-Kotlin-WorkManger
-<img 
-	src="https://user-images.githubusercontent.com/25055256/81488200-5480b380-926e-11ea-8e9b-77fa6a7873d4.png" 
-	alt="Logo" width="80px" height="80px" align="right" />
 
 Calculate The different Ways The standard 52-card deck can be arranged  52! . WorkManager example
 
