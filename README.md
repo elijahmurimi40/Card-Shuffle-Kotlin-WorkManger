@@ -6,6 +6,8 @@
 
 Calculate The different Ways The standard 52-card deck can be arranged  52! . WorkManager example
 
+Minimum Android Version 4.0 (Ice Cream Sandwich)
+
 ### No Constraints
 <img src="demo/CardShuffle1.gif" alt="Demo" height="500px" />
 
